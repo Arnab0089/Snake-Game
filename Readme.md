@@ -10,6 +10,6 @@ Welcome to the Snake Game! This classic arcade game will test your reflexes and 
 4. Be careful not to collide with the walls or your own body, as it will result in game over.
 5. The game will keep track of your score, so try to beat your own high score!
 
-![Snake Game]()
+![Snake Game](https://github.com/Arnab0089/Snake-Game/blob/main/snake.png)
 
 Enjoy playing the Snake Game and have fun!
